@@ -44,9 +44,9 @@ Edit Nomor Owner DLL `'./settings/setting.json'`
 
 ```ts
 {
-"BotName":"NanaBotz",
-"OwnerNumber":"62857890047322",
-"OwnerName":"LexxyOFC",
+"BotName":"zero-bot",
+"OwnerNumber":"6281393227915",
+"OwnerName":"powerkucing",
 
 "GithubOwner":"https://github.com/Lexxy24",
 "YoutubeOwner":"https://youtube.com/c/LEX4YOUU",
